@@ -13,6 +13,7 @@
 		AF6CA5DB2A1C73780018ED11 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF6CA5D92A1C73780018ED11 /* Main.storyboard */; };
 		AF6CA5DD2A1C737A0018ED11 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF6CA5DC2A1C737A0018ED11 /* Assets.xcassets */; };
 		AF6CA5E02A1C737A0018ED11 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF6CA5DE2A1C737A0018ED11 /* LaunchScreen.storyboard */; };
+		AF6CA5E82A1C75E90018ED11 /* OneNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF6CA5E72A1C75E90018ED11 /* OneNumber.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AF6CA5DC2A1C737A0018ED11 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AF6CA5DF2A1C737A0018ED11 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AF6CA5E12A1C737A0018ED11 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AF6CA5E72A1C75E90018ED11 /* OneNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OneNumber.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				AF6CA5D32A1C73780018ED11 /* AppDelegate.swift */,
+				AF6CA5E72A1C75E90018ED11 /* OneNumber.swift */,
 				AF6CA5D52A1C73780018ED11 /* SceneDelegate.swift */,
 				AF6CA5D72A1C73780018ED11 /* ViewController.swift */,
 				AF6CA5D92A1C73780018ED11 /* Main.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AF6CA5D82A1C73780018ED11 /* ViewController.swift in Sources */,
+				AF6CA5E82A1C75E90018ED11 /* OneNumber.swift in Sources */,
 				AF6CA5D42A1C73780018ED11 /* AppDelegate.swift in Sources */,
 				AF6CA5D62A1C73780018ED11 /* SceneDelegate.swift in Sources */,
 			);
